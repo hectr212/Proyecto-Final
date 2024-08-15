@@ -1,0 +1,7 @@
+C:\Users\byaku\Desktop\Proyecto Final\JuegoInteractivo\JuegoInteractivo\bin\Debug\JuegoInteractivo.exe.config
+C:\Users\byaku\Desktop\Proyecto Final\JuegoInteractivo\JuegoInteractivo\bin\Debug\JuegoInteractivo.exe
+C:\Users\byaku\Desktop\Proyecto Final\JuegoInteractivo\JuegoInteractivo\bin\Debug\JuegoInteractivo.pdb
+C:\Users\byaku\Desktop\Proyecto Final\JuegoInteractivo\JuegoInteractivo\obj\Debug\JuegoInteractivo.csproj.AssemblyReference.cache
+C:\Users\byaku\Desktop\Proyecto Final\JuegoInteractivo\JuegoInteractivo\obj\Debug\JuegoInteractivo.csproj.CoreCompileInputs.cache
+C:\Users\byaku\Desktop\Proyecto Final\JuegoInteractivo\JuegoInteractivo\obj\Debug\JuegoInteractivo.exe
+C:\Users\byaku\Desktop\Proyecto Final\JuegoInteractivo\JuegoInteractivo\obj\Debug\JuegoInteractivo.pdb
